@@ -1,0 +1,7 @@
+image: Ubuntu1804  # образ для сборки
+
+branches:
+  only:
+    - main  # ветка git
+
+build: off
