@@ -26,4 +26,6 @@
 ```
 
 
+[![Build status](https://ci.appveyor.com/api/projects/status/9a39d5sj2kf1s6ki?svg=true)](https://ci.appveyor.com/project/Akhukh1/env)
+
 
